@@ -1,2 +1,2 @@
 # greenary
-On the journey of falling love to computers agin.
+1st Udacity Blog
